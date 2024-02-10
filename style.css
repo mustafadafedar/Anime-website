@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins:wght@500&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,800&family=Oswald:wght@500&family=Poppins:wght@500&family=Protest+Riot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,800&family=Oswald:wght@500&family=Poppins:wght@500&family=Protest+Riot&family=Rowdies:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,800&family=Oswald:wght@500&family=Poppins:wght@500&family=Protest+Riot&family=Rowdies:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,800&family=Oswald:wght@500&family=Poppins:wght@500&family=Protest+Riot&family=Rowdies:wght@300;700&family=Sixtyfour&display=swap');
+
+
+
+
+
+.auto{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.cover{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    background-color: black;
+    opacity: 0.5;
+}
+.nav{
+    display: flex;
+    z-index: -1;
+    color: aliceblue;
+    font-size: larger;
+    gap: 90px;
+    position: relative;
+    left: 250px;
+    width: fit-content;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.anime{
+    position: relative;
+    right: 150px;
+    font-family: 'Protest Riot', sans-serif;
+}
+.hea{
+    position: relative;
+    bottom: -250px;
+    left: 60px;
+    color: white;
+    width: fit-content;
+    font-family: 'Nunito Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Protest Riot', sans-serif;
+font-family: 'Rowdies', sans-serif;
+}
+.head{
+    position: relative;
+    bottom: -270px;
+}
+.para{
+    position: relative;
+    bottom: -230px;
+    left: 60px;
+    color: white;
+    width: fit-content; 
+    font-family: 'Nunito Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Protest Riot', sans-serif;
+font-family: 'Rowdies', sans-serif;
+}
+.button button{
+    position: relative;
+    bottom: -70px;
+    left: 70px;
+    width: 70px;
+    height: 25px;
+    color: red;    
+    font-size: 10px;
+    width: fit-content;
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Protest Riot', sans-serif;
+}
+
+.button2 button{
+    position: relative;
+    bottom: -210px;
+    left: 70px;
+    width: 120px;
+    height: 40px;
+    padding: 0;
+    background-color: rgb(233, 38, 38);
+    border: 0px;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Protest Riot', sans-serif;
+    }
